@@ -9,6 +9,7 @@
 <strong>This example plugin will help you to develop your own plugins for VueTube.</strong>
 </br>
 The main VueTube repository can be found <a href="https://github.com/VueTube/VueTubeApp"> here.</a>
+The documentation of plugins can be found <a href="https://vuetube.app/plugins/"> here.</a>
 </p>
 
 ## Example plugin
